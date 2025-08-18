@@ -35,6 +35,6 @@
 <div align="center">
 
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DRKCTRLDEV)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscordinvite)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/637368233166635008)
   [![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=webflow&logoColor=white)](https://drkctrl.dev)
 </div>
