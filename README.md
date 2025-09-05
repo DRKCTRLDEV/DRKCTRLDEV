@@ -1,4 +1,4 @@
-<p align="center"><img width="32%" src="./DRKDEV (Header).png" alt="DRKDEV Header" /></p>
+<p align="center"><img width="60%" src="./DRKDEV (Header).png" alt="DRKDEV Header" /></p>
 
 <p align="center">⫷ <strong>Passionate developer</strong> crafting innovative, user-friendly solutions. I love building impactful projects with modern tech, exploring new tools, and contributing to open source. ⫸</p>
 
